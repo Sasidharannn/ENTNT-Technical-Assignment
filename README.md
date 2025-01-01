@@ -1,2 +1,14 @@
-# ENTNT-Technical-Assignment
-The Calendar Application for Communication Tracking helps users manage and track communication activities. It offers calendar views, event logging, categorization, reminders, search/filter options, and analytics. With integrations, shared calendars, and cloud syncing, it improves communication organization and team collaboration.
+# Calendar Application for Communication Tracking
+
+## Project Overview
+This is a React-based application for tracking and managing communications with companies, ensuring follow-ups are timely and consistent.
+
+## Features
+- Admin Module for managing companies and communication parameters.
+- User Dashboard for viewing and managing communication tasks.
+- Notifications for overdue and upcoming communications.
+- Calendar View for scheduling.
+- Reporting and Analytics for actionable insights.
+
+## Installation
+1. Clone the repository:
